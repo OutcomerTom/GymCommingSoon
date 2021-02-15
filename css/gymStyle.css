@@ -1,0 +1,42 @@
+body{
+    background: url("../images/bgGym.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Arimo', sans-serif;
+}
+
+div{
+    background-color: darkred;
+    width: 50%;
+    margin: 250px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.8;
+    
+}
+
+h1{
+    color: white;
+    font-size: 4em;
+}
+
+p{
+    color: gray;
+    
+    
+    
+}
+button{
+    
+    background: blueviolet;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2em;
+    border-radius: 10px
+        
+}
+i{
+    font-size: 4em;
+    padding-top: 10%;
+}
